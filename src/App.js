@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - with Navnath - Good Morning Navnath- do your job at best!
+          Learn React - with Navnath - Feature Branch!
         </a>
       </header>
     </div>
